@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[musings of a mad man]]></title>
+        <description><![CDATA[musings of a mad man]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 23:22:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lorem Ipsum]]></title>
+            <description><![CDATA[<article><h1>Lorem Ipsum</h1><p>Filler text here and there.</p></article>]]></description>
+            <link>undefinedlorem-ipsum/index.html</link>
+            <guid isPermaLink="false">5c9ef3aa-8a28-4366-867d-e460fd4631ee</guid>
+            <pubDate>Thu, 28 Apr 2016 23:22:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
