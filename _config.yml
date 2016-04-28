@@ -1,7 +1,7 @@
 name: gerrymi
 favicon: null
 layout_spectrum: 0.088623964227736
-typography_spectrum: 0.976805797079578
+typography_spectrum: 0.69312
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5729872395750135
-  lightness: 0.14840091485530138
-  saturation: 0.6604257498402148
-  rhythmicContrast: 0.33498620823957026
+    - '#131019'
+    - '#c7c7bf'
+    - '#ff6d80'
+    - '#4f4c3d'
+    - '#66c4fa'
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
